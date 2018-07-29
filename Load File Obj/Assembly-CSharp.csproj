@@ -55,11 +55,11 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\DownloadObjToResources.cs" />
      <Compile Include="Assets\Scripts\LoadObjFromResources.cs" />
- <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/Mine/5. Study/2. Projects Test/C#/1. Unity 3D/Load File Obj/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/Mine/5. Study/2. Projects Test/C#/1. Unity 3D/Load File Obj/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>D:/Mine/5. Study/2. Projects Test/C#/1. Unity 3D/LoadFileObj/Load File Obj/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PackageManagerUI.Editor">
+ <HintPath>D:/Mine/5. Study/2. Projects Test/C#/1. Unity 3D/LoadFileObj/Load File Obj/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -236,7 +236,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Unity.Locator.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>D:/Mine/5. Study/2. Projects Test/C#/1. Unity 3D/Load File Obj/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>D:/Mine/5. Study/2. Projects Test/C#/1. Unity 3D/LoadFileObj/Load File Obj/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>

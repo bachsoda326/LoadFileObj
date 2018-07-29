@@ -401,7 +401,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a23ace7622f55b4788c31fab297dd54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objName: 
+  objName: knifeobj
 --- !u!114 &342206039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -413,8 +413,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 469847edab05a884aaff2c4eee4a66a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: http://likebyduybao.16mb.com/bmw_x5/BMWX54.obj
-  fileName: BMWX54.obj
+  url: http://likebyduybao.16mb.com/BHD/knifeobj.obj
+  fileName: knifeobj.obj
 --- !u!4 &342206040
 Transform:
   m_ObjectHideFlags: 0

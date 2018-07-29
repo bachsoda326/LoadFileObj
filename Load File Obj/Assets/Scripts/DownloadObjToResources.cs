@@ -16,7 +16,7 @@ public class DownloadObjToResources : MonoBehaviour
     IEnumerator Download()
     {
         var client = new WebClient();
-        client.DownloadFile("http://likebyduybao.16mb.com/bmw_x5/BMWX54.obj", Application.dataPath + @"/Resources/" + fileName);
+        client.DownloadFile(url, Application.dataPath + @"/Resources/" + fileName);
 
         yield return client;
 
